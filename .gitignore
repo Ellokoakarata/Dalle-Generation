@@ -28,8 +28,9 @@ env/
 # Archivos de configuración local
 .env
 
-# Carpetas de imágenes generadas (opcional, comenta si quieres incluirlas)
-# generations/
+# Carpetas de imágenes generadas
+generations/**/*.png
+generations/*.png
 
 # Logs
 *.log
